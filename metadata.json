@@ -1,0 +1,6 @@
+{
+  "name": "Emanuel -- Creador 3D",
+  "description": "Un portafolio de diseño 3D para Emanuel con animaciones, marquesinas de desplazamiento horizontal y secciones de proyectos dinámicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
